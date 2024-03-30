@@ -5,8 +5,6 @@
 <h2>Sobre mi:</h2>
 
 
-
-
 <h3 align="center">Apasionado por la programación y la tecnología, estoy ansioso por iniciar mi carrera en este campo.</h3>
 
 
@@ -14,7 +12,6 @@
 <p align="left">
 </p>
 
-<h3 align="center">Poseo conocimientos fundamentales en:</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
