@@ -7,11 +7,10 @@ Apasionado por la programación y la tecnología, estoy ansioso por iniciar mi c
 Poseo conocimientos fundamentales en:
 
 <ul>
-    <li>JAVA</li>
-    <li>MySQL</li>
-    <li>GIT/li>
-    <li>HTML</li>
-    <li>CSS</li>
+    <li>Lenguajes de programación: JAVA</li>
+    <li>Bases de datos: MySQL</li>
+    <li>Desarrollo web: HTML, CSS</li>
+    <li>Herramientas de control de versiones: GIT/li>
 </ul>
 
 <!--
