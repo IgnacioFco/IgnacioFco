@@ -2,6 +2,18 @@
 
 <img src="https://cdn.leonardo.ai/users/43435159-61ae-4a1f-9b4a-48dfbecb3a96/generations/fb0bd766-ad6b-4c4c-a346-8995d7aed201/Default_Futuristic_gamer_computer_studio_3.jpg">
 
+<h3>Sobre mi:</h3>
+Apasionado por la programación y la tecnología, estoy ansioso por iniciar mi carrera en este campo. 
+Poseo conocimientos fundamentales en:
+
+<ul>
+    <li>JAVA</li>
+    <li>MySQL</li>
+    <li>GIT/li>
+    <li>HTML</li>
+    <li>CSS</li>
+</ul>
+
 <!--
 **IgnacioFco/IgnacioFco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
