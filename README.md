@@ -10,7 +10,7 @@ Poseo conocimientos fundamentales en:
     <li>Lenguajes de programación: JAVA</li>
     <li>Bases de datos: MySQL</li>
     <li>Desarrollo web: HTML, CSS</li>
-    <li>Herramientas de control de versiones: GIT/li>
+    <li>Herramientas de control de versiones: GIT</li>
 </ul>
 
 <!--
