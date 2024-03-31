@@ -5,7 +5,7 @@
 <h2>Sobre mi:</h2>
 
 
-<h3 align="center">Apasionado por la programación y la tecnología, estoy ansioso por iniciar mi carrera en este campo.</h3>
+<h3">Apasionado por la programación y la tecnología, estoy ansioso por iniciar mi carrera en este campo.</h3>
 
 
 <h3 align="left">Connect with me:</h3>
