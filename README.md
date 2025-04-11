@@ -59,7 +59,7 @@ I'm motivated by the idea of working on interesting and challenging projects whe
    <i>See you soon. :bowtie:</i>
    <br>
 <br>	
-<a target="_blank" href="www.linkedin.com/in/ignacio-mendoz-568911301/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="www.linkedin.com/in/ignacio-mendoz-568911301"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <br>
 </p>
 
