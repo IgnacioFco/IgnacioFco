@@ -60,10 +60,11 @@ I'm motivated by the idea of working on interesting and challenging projects whe
    <br>
 <br>	
 <li>
-<a href="www.linkedin.com/in/ignacio-mendoz-568911301" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://linkedin.com/in/ignacio-mendoz-568911301" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  ignacio.mendoz-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
-</li><br>
+</li>
+  <br>
 </p>
 
 
