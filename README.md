@@ -8,7 +8,7 @@
 
 Passionate about programming and technology, I'm eager to start my career in this field.
 I'm motivated by the idea of working on interesting and challenging projects where I can apply what I know and keep learning.
-* **I have experience in various areas of programming and personal projects that showcase my knowledge in JAVA, JavaScript, React, and Node.js.**
+* **I have experience in various areas of programming and personal projects that showcase my knowledge in JAVA, JavaScript, and Node.js.**
 - 🌱 I’m currently learning ...
   - Kotlin
   - React js
