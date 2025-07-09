@@ -68,7 +68,7 @@ I'm motivated by the idea of working on interesting and challenging projects whe
     <img src="https://img.shields.io/badge/Ventas_Concesionario_Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Ventas Concesionario JAVA"/>
   </a><br><br>
 
-  <a href="https://github.com/IgnacioFco" target="_blank">
+  <a href="https://github.com/IgnacioFco?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/Ver_todos_mis_proyectos-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="Ver todos mis proyectos"/>
   </a>
 
