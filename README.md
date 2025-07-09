@@ -52,7 +52,7 @@ I'm motivated by the idea of working on interesting and challenging projects whe
 </span>
   
 <!-- Projects Section -->
-<h3>🔗 Projects</h3>
+##🔗 Projects
 
 <p>Click on a project to explore it:</p>
 
