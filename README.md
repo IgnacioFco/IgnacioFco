@@ -51,6 +51,26 @@ I'm motivated by the idea of working on interesting and challenging projects whe
 
 </span>
   
+<!-- Projects Section -->
+<h3><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/project.gif?raw=true" width="30px"></picture> Projects</h3>
+
+<p>Click on a project to explore it:</p>
+
+<div align="center">
+
+  <a href="https://ignaciofco.github.io/ProyectoFinalEcommerce-Mendoz/" target="_blank">
+    <img src="https://img.shields.io/badge/Ecommerce_JS_Project-222222?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ecommerce JS Project"/>
+  </a><br><br>
+
+  <a href="https://github.com/IgnacioFco/Ventas-Concesionario-JAVA" target="_blank">
+    <img src="https://img.shields.io/badge/Ventas_Concesionario_Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Ventas Concesionario JAVA"/>
+  </a><br><br>
+
+  <a href="https://github.com/IgnacioFco" target="_blank">
+    <img src="https://img.shields.io/badge/Ver_todos_mis_proyectos-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="Ver todos mis proyectos"/>
+  </a>
+
+</div>
 
     
 
