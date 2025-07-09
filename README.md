@@ -52,7 +52,7 @@ I'm motivated by the idea of working on interesting and challenging projects whe
 </span>
   
 <!-- Projects Section -->
-<h3><picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/project.gif?raw=true" width="30px"></picture> Projects</h3>
+<h3>🔗 Projects</h3>
 
 <p>Click on a project to explore it:</p>
 
