@@ -54,7 +54,6 @@ I'm motivated by the idea of working on interesting and challenging projects whe
 <!-- Projects Section -->
 ## 🔗 Projects
 
-<p>Click on a project to explore it:</p>
 
 <div align="center">
 
